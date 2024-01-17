@@ -1,4 +1,4 @@
-### Hi there i'm Heitor Henrique👋
+### I am Heitor Henrique👋
 
 - 🔭 I’m currently working on a Website
 - 🌱 I’m currently learning CSS and HTML
